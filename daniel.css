@@ -1,1 +1,44 @@
+header {
+  height: 70px;
+padding: 1rem;
+color: white;
+background: #84876A;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.team {
+    font-size: 4rem;
+    font-weight: 900;
+    text-align: left;
+    font-family: 'Oswald', sans-sans-serif;
+    color: white;
+}
+.login1{
+    text-align: right;
 
+}
+.log {
+  font-size: 1rem;
+  font-family: 'Open Sans', sans-serif;
+  color: white;
+}
+body {
+    display: block;
+    margin: 0;
+}
+#php {
+   text-decoration: none;
+}
+#php:link { color:white; }
+#php:visited { color:white; }
+#php:hover { color:white; }
+#php:active { color:white; }
+#t {
+ position: fixed;
+ background-color: #84876; /*임의색상*/
+ left: 0;
+ right: 0;
+ bottom: 0;
+ height: 6rem;
+}
